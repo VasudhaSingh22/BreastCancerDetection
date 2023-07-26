@@ -25,6 +25,7 @@ The performance of each model was evaluated using the following metrics:
 - **Accuracy:** The proportion of correctly classified instances out of the total instances.
 - **F1 Score:** The harmonic mean of precision and recall, providing a balance between the two metrics.
 - **Precision:** The proportion of true positive predictions out of the total positive predictions.
+- **Recall:** The proportion of true positive predictions out of all actual positive samples.
 - **Balanced Accuracy:** The average of sensitivity (recall) and specificity, providing a balanced view of the model's performance.
 
 ## Conclusion:
